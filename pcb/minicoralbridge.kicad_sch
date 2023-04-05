@@ -752,9 +752,17 @@
     (uuid 731dd183-b704-4869-89d8-79bfa51404b5)
   )
 
+  (text "alternate: TH162040CTJ (C3020128)" (at 30.48 151.13 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 515cf2c8-097c-45e7-9d0e-0dfd50e39007)
+  )
   (text "Polarity reversal\nper PCIe spec" (at 29.21 88.9 90)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 86aeb2a2-b798-46c6-9d9b-2ff6a9c76f81)
+  )
+  (text "alternate: 91304-68-052R2 (C404122)" (at 73.66 116.84 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid cd1ebf1d-0280-4eb3-957e-ab44aca56227)
   )
 
   (label "PERST" (at 48.26 109.22 180) (fields_autoplaced)

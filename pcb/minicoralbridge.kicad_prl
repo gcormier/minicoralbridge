@@ -6,7 +6,7 @@
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
-    "net_color_mode": 1,
+    "net_color_mode": 0,
     "opacity": {
       "images": 0.6,
       "pads": 1.0,
@@ -19,7 +19,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -37,7 +37,6 @@
       8,
       9,
       10,
-      11,
       13,
       15,
       16,
@@ -63,7 +62,7 @@
       39,
       40
     ],
-    "visible_layers": "ff83f30_ffffffff",
+    "visible_layers": "ff83fe0_fffffff9",
     "zone_display_mode": 1
   },
   "meta": {
